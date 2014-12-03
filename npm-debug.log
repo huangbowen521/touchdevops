@@ -2,13 +2,13 @@
 1 verbose cli [ 'node',
 1 verbose cli   '/usr/local/bin/npm',
 1 verbose cli   'install',
-1 verbose cli   'hexo-migrator-wordpress',
+1 verbose cli   'hexo-deployer-s3',
 1 verbose cli   '--save' ]
 2 info using npm@1.4.28
 3 info using node@v0.10.33
 4 verbose readDependencies using package.json deps
-5 verbose cache add [ 'hexo-migrator-wordpress', null ]
-6 verbose cache add name=undefined spec="hexo-migrator-wordpress" args=["hexo-migrator-wordpress",null]
+5 verbose cache add [ 'hexo-deployer-s3', null ]
+6 verbose cache add name=undefined spec="hexo-deployer-s3" args=["hexo-deployer-s3",null]
 7 verbose parsed url { protocol: null,
 7 verbose parsed url   slashes: null,
 7 verbose parsed url   auth: null,
@@ -18,13 +18,13 @@
 7 verbose parsed url   hash: null,
 7 verbose parsed url   search: null,
 7 verbose parsed url   query: null,
-7 verbose parsed url   pathname: 'hexo-migrator-wordpress',
-7 verbose parsed url   path: 'hexo-migrator-wordpress',
-7 verbose parsed url   href: 'hexo-migrator-wordpress' }
-8 silly lockFile 580d3ce0-hexo-migrator-wordpress hexo-migrator-wordpress
-9 verbose lock hexo-migrator-wordpress /Users/twer/.npm/580d3ce0-hexo-migrator-wordpress.lock
-10 silly lockFile 580d3ce0-hexo-migrator-wordpress hexo-migrator-wordpress
-11 error Error: Attempt to unlock hexo-migrator-wordpress, which hasn't been locked
+7 verbose parsed url   pathname: 'hexo-deployer-s3',
+7 verbose parsed url   path: 'hexo-deployer-s3',
+7 verbose parsed url   href: 'hexo-deployer-s3' }
+8 silly lockFile 04d9f672-hexo-deployer-s3 hexo-deployer-s3
+9 verbose lock hexo-deployer-s3 /Users/twer/.npm/04d9f672-hexo-deployer-s3.lock
+10 silly lockFile 04d9f672-hexo-deployer-s3 hexo-deployer-s3
+11 error Error: Attempt to unlock hexo-deployer-s3, which hasn't been locked
 11 error     at unlock (/usr/local/lib/node_modules/npm/lib/utils/locker.js:44:11)
 11 error     at cb (/usr/local/lib/node_modules/npm/lib/cache/add-local.js:30:5)
 11 error     at /usr/local/lib/node_modules/npm/lib/cache/add-local.js:47:20
@@ -36,7 +36,7 @@
 12 error including the npm and node versions, at:
 12 error     <http://github.com/npm/npm/issues>
 13 error System Darwin 14.0.0
-14 error command "node" "/usr/local/bin/npm" "install" "hexo-migrator-wordpress" "--save"
+14 error command "node" "/usr/local/bin/npm" "install" "hexo-deployer-s3" "--save"
 15 error cwd /Users/twer/sourcecode/touchdevops
 16 error node -v v0.10.33
 17 error npm -v 1.4.28
