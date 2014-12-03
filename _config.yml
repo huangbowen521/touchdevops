@@ -89,7 +89,4 @@ deploy:
   repo: git@github.com:touchdevops/touchdevops.github.io.git
   branch: master
   message: 'new commit'
-
-plugins:
-- hexo-deployer-s3
   
