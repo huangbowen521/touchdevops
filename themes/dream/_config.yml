@@ -62,13 +62,13 @@ fancybox: false
 #### Author information
 author:
   google_plus:    ## eg:116338260303228776998 for https://plus.google.com/u/0/116338260303228776998
-  intro_line1: "没有礁石，就没有美丽的浪花；没有挫折，就没有壮丽的人生！" ## eg: "Hello ,I'm Larry Page in Google."
-  intro_line2: "再长的路，一步步也能走完，再短的路，不迈开双脚也无法到达，平凡的脚步也可以走完伟大的行程！" ## eg: "This is my blog,believe it or not."
-  weibo:       2583230784     ## e.g. 2583230784 for http://weibo.com/2583230784
-  twitter:     idreajay ## e.g. yangjiansky for https://twitter.com/idreajay
-  github:      dreajay ## e.g. A-limon for https://github.com/A-limon
+  intro_line1:  ## eg: "Hello ,I'm Larry Page in Google."
+  intro_line2:  ## eg: "This is my blog,believe it or not."
+  weibo:            ## e.g. 2583230784 for http://weibo.com/2583230784
+  twitter:      ## e.g. yangjiansky for https://twitter.com/idreajay
+  github:       ## e.g. A-limon for https://github.com/A-limon
   facebook:     ## e.g. dreajay.dai for https://favebook.com/dreajay.dai
-  tsina:      2583230784 ## e.g. 1664838973  Your weibo ID,It will be used in share button.
+  tsina:       ## e.g. 1664838973  Your weibo ID,It will be used in share button.
 
 #### Comment
 duoshuo: 
