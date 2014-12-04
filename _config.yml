@@ -88,5 +88,5 @@ deploy:
   type: github
   repo: git@github.com:touchdevops/touchdevops.github.io.git
   branch: master
-  message: 'new commit'
+  message: Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}
   
